@@ -52,3 +52,7 @@
   #### 使用方法2(推荐)：```$ python estimator.py */*.yaml``` 
   
   (估算当前路径下，所有文件夹下中的yaml文件中的测试用例数量)
+  
+运行结果范例：
+
+![example image](https://github.com/Blackoutta/test-case-estimator/blob/master/example.png "运行结果")
